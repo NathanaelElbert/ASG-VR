@@ -1,0 +1,1064 @@
+[
+  {
+    "Name": "Hydrogen",
+    "Atomic Number": 1,
+    "Symbol": "H",
+    "Van der Waals": 1.2,
+    "Covalent (single bond)": 0.38,
+    "Covalent (triple bond)": null,
+    "Metallic": ""
+  },
+  {
+    "Name": "Helium",
+    "Atomic Number": 2,
+    "Symbol": "He",
+    "Van der Waals": 1.4,
+    "Covalent (single bond)": 0.32,
+    "Covalent (triple bond)": null,
+    "Metallic": ""
+  },
+  {
+    "Name": "Lithium",
+    "Atomic Number": 3,
+    "Symbol": "Li",
+    "Van der Waals": 1.82,
+    "Covalent (single bond)": 1.34,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.52
+  },
+  {
+    "Name": "Beryllium",
+    "Atomic Number": 4,
+    "Symbol": "Be",
+    "Van der Waals": 1.53,
+    "Covalent (single bond)": 0.9,
+    "Covalent (triple bond)": 0.85,
+    "Metallic": 1.12
+  },
+  {
+    "Name": "Boron",
+    "Atomic Number": 5,
+    "Symbol": "B",
+    "Van der Waals": 1.92,
+    "Covalent (single bond)": 0.82,
+    "Covalent (triple bond)": 0.73,
+    "Metallic": ""
+  },
+  {
+    "Name": "Carbon",
+    "Atomic Number": 6,
+    "Symbol": "C",
+    "Van der Waals": 1.7,
+    "Covalent (single bond)": 0.77,
+    "Covalent (triple bond)": 0.6,
+    "Metallic": ""
+  },
+  {
+    "Name": "Nitrogen",
+    "Atomic Number": 7,
+    "Symbol": "N",
+    "Van der Waals": 1.55,
+    "Covalent (single bond)": 0.75,
+    "Covalent (triple bond)": 0.54,
+    "Metallic": ""
+  },
+  {
+    "Name": "Oxygen",
+    "Atomic Number": 8,
+    "Symbol": "O",
+    "Van der Waals": 1.52,
+    "Covalent (single bond)": 0.73,
+    "Covalent (triple bond)": 0.53,
+    "Metallic": ""
+  },
+  {
+    "Name": "Fluorine",
+    "Atomic Number": 9,
+    "Symbol": "F",
+    "Van der Waals": 1.47,
+    "Covalent (single bond)": 0.71,
+    "Covalent (triple bond)": 0.53,
+    "Metallic": ""
+  },
+  {
+    "Name": "Neon",
+    "Atomic Number": 10,
+    "Symbol": "Ne",
+    "Van der Waals": 1.54,
+    "Covalent (single bond)": 0.69,
+    "Covalent (triple bond)": null,
+    "Metallic": ""
+  },
+  {
+    "Name": "Sodium",
+    "Atomic Number": 11,
+    "Symbol": "Na",
+    "Van der Waals": 2.27,
+    "Covalent (single bond)": 1.54,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.86
+  },
+  {
+    "Name": "Magnesium",
+    "Atomic Number": 12,
+    "Symbol": "Mg",
+    "Van der Waals": 1.73,
+    "Covalent (single bond)": 1.3,
+    "Covalent (triple bond)": 1.27,
+    "Metallic": 1.6
+  },
+  {
+    "Name": "Aluminium",
+    "Atomic Number": 13,
+    "Symbol": "Al",
+    "Van der Waals": 1.84,
+    "Covalent (single bond)": 1.18,
+    "Covalent (triple bond)": 1.11,
+    "Metallic": 1.43
+  },
+  {
+    "Name": "Silicon",
+    "Atomic Number": 14,
+    "Symbol": "Si",
+    "Van der Waals": 2.1,
+    "Covalent (single bond)": 1.11,
+    "Covalent (triple bond)": 1.02,
+    "Metallic": ""
+  },
+  {
+    "Name": "Phosphorus",
+    "Atomic Number": 15,
+    "Symbol": "P",
+    "Van der Waals": 1.8,
+    "Covalent (single bond)": 1.06,
+    "Covalent (triple bond)": 0.94,
+    "Metallic": ""
+  },
+  {
+    "Name": "Sulfur",
+    "Atomic Number": 16,
+    "Symbol": "S",
+    "Van der Waals": 1.8,
+    "Covalent (single bond)": 1.02,
+    "Covalent (triple bond)": 0.95,
+    "Metallic": ""
+  },
+  {
+    "Name": "Chlorine",
+    "Atomic Number": 17,
+    "Symbol": "Cl",
+    "Van der Waals": 1.75,
+    "Covalent (single bond)": 0.99,
+    "Covalent (triple bond)": 0.93,
+    "Metallic": ""
+  },
+  {
+    "Name": "Argon",
+    "Atomic Number": 18,
+    "Symbol": "Ar",
+    "Van der Waals": 1.88,
+    "Covalent (single bond)": 0.97,
+    "Covalent (triple bond)": 0.96,
+    "Metallic": ""
+  },
+  {
+    "Name": "Potassium",
+    "Atomic Number": 19,
+    "Symbol": "K",
+    "Van der Waals": 2.75,
+    "Covalent (single bond)": 1.96,
+    "Covalent (triple bond)": null,
+    "Metallic": 2.27
+  },
+  {
+    "Name": "Calcium",
+    "Atomic Number": 20,
+    "Symbol": "Ca",
+    "Van der Waals": 2.31,
+    "Covalent (single bond)": 1.74,
+    "Covalent (triple bond)": 1.33,
+    "Metallic": 1.97
+  },
+  {
+    "Name": "Scandium",
+    "Atomic Number": 21,
+    "Symbol": "Sc",
+    "Van der Waals": 2.11,
+    "Covalent (single bond)": 1.44,
+    "Covalent (triple bond)": 1.14,
+    "Metallic": 1.62
+  },
+  {
+    "Name": "Titanium",
+    "Atomic Number": 22,
+    "Symbol": "Ti",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.36,
+    "Covalent (triple bond)": 1.08,
+    "Metallic": 1.47
+  },
+  {
+    "Name": "Vanadium",
+    "Atomic Number": 23,
+    "Symbol": "V",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.25,
+    "Covalent (triple bond)": 1.06,
+    "Metallic": 1.34
+  },
+  {
+    "Name": "Chromium",
+    "Atomic Number": 24,
+    "Symbol": "Cr",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.27,
+    "Covalent (triple bond)": 1.03,
+    "Metallic": 1.28
+  },
+  {
+    "Name": "Manganese",
+    "Atomic Number": 25,
+    "Symbol": "Mn",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.39,
+    "Covalent (triple bond)": 1.03,
+    "Metallic": 1.27
+  },
+  {
+    "Name": "Iron",
+    "Atomic Number": 26,
+    "Symbol": "Fe",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.25,
+    "Covalent (triple bond)": 1.02,
+    "Metallic": 1.26
+  },
+  {
+    "Name": "Cobalt",
+    "Atomic Number": 27,
+    "Symbol": "Co",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.26,
+    "Covalent (triple bond)": 0.96,
+    "Metallic": 1.25
+  },
+  {
+    "Name": "Nickel",
+    "Atomic Number": 28,
+    "Symbol": "Ni",
+    "Van der Waals": 1.63,
+    "Covalent (single bond)": 1.21,
+    "Covalent (triple bond)": 1.01,
+    "Metallic": 1.24
+  },
+  {
+    "Name": "Copper",
+    "Atomic Number": 29,
+    "Symbol": "Cu",
+    "Van der Waals": 1.4,
+    "Covalent (single bond)": 1.38,
+    "Covalent (triple bond)": 1.2,
+    "Metallic": 1.28
+  },
+  {
+    "Name": "Zinc",
+    "Atomic Number": 30,
+    "Symbol": "Zn",
+    "Van der Waals": 1.39,
+    "Covalent (single bond)": 1.31,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.34
+  },
+  {
+    "Name": "Gallium",
+    "Atomic Number": 31,
+    "Symbol": "Ga",
+    "Van der Waals": 1.87,
+    "Covalent (single bond)": 1.26,
+    "Covalent (triple bond)": 1.21,
+    "Metallic": 1.35
+  },
+  {
+    "Name": "Germanium",
+    "Atomic Number": 32,
+    "Symbol": "Ge",
+    "Van der Waals": 2.11,
+    "Covalent (single bond)": 1.22,
+    "Covalent (triple bond)": 1.14,
+    "Metallic": ""
+  },
+  {
+    "Name": "Arsenic",
+    "Atomic Number": 33,
+    "Symbol": "As",
+    "Van der Waals": 1.85,
+    "Covalent (single bond)": 1.19,
+    "Covalent (triple bond)": 1.06,
+    "Metallic": ""
+  },
+  {
+    "Name": "Selenium",
+    "Atomic Number": 34,
+    "Symbol": "Se",
+    "Van der Waals": 1.9,
+    "Covalent (single bond)": 1.16,
+    "Covalent (triple bond)": 1.07,
+    "Metallic": ""
+  },
+  {
+    "Name": "Bromine",
+    "Atomic Number": 35,
+    "Symbol": "Br",
+    "Van der Waals": 1.85,
+    "Covalent (single bond)": 1.14,
+    "Covalent (triple bond)": 1.1,
+    "Metallic": ""
+  },
+  {
+    "Name": "Krypton",
+    "Atomic Number": 36,
+    "Symbol": "Kr",
+    "Van der Waals": 2.02,
+    "Covalent (single bond)": 1.1,
+    "Covalent (triple bond)": 1.08,
+    "Metallic": ""
+  },
+  {
+    "Name": "Rubidium",
+    "Atomic Number": 37,
+    "Symbol": "Rb",
+    "Van der Waals": 3.03,
+    "Covalent (single bond)": 2.11,
+    "Covalent (triple bond)": null,
+    "Metallic": 2.48
+  },
+  {
+    "Name": "Strontium",
+    "Atomic Number": 38,
+    "Symbol": "Sr",
+    "Van der Waals": 2.49,
+    "Covalent (single bond)": 1.92,
+    "Covalent (triple bond)": 1.39,
+    "Metallic": 2.15
+  },
+  {
+    "Name": "Yttrium",
+    "Atomic Number": 39,
+    "Symbol": "Y",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.62,
+    "Covalent (triple bond)": 1.24,
+    "Metallic": 1.8
+  },
+  {
+    "Name": "Zirconium",
+    "Atomic Number": 40,
+    "Symbol": "Zr",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.48,
+    "Covalent (triple bond)": 1.21,
+    "Metallic": 1.6
+  },
+  {
+    "Name": "Niobium",
+    "Atomic Number": 41,
+    "Symbol": "Nb",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.37,
+    "Covalent (triple bond)": 1.16,
+    "Metallic": 1.46
+  },
+  {
+    "Name": "Molybdenum",
+    "Atomic Number": 42,
+    "Symbol": "Mo",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.45,
+    "Covalent (triple bond)": 1.13,
+    "Metallic": 1.39
+  },
+  {
+    "Name": "Technetium",
+    "Atomic Number": 43,
+    "Symbol": "Tc",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.56,
+    "Covalent (triple bond)": 1.1,
+    "Metallic": 1.36
+  },
+  {
+    "Name": "Ruthenium",
+    "Atomic Number": 44,
+    "Symbol": "Ru",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.26,
+    "Covalent (triple bond)": 1.03,
+    "Metallic": 1.34
+  },
+  {
+    "Name": "Rhodium",
+    "Atomic Number": 45,
+    "Symbol": "Rh",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.35,
+    "Covalent (triple bond)": 1.06,
+    "Metallic": 1.34
+  },
+  {
+    "Name": "Palladium",
+    "Atomic Number": 46,
+    "Symbol": "Pd",
+    "Van der Waals": 1.63,
+    "Covalent (single bond)": 1.31,
+    "Covalent (triple bond)": 1.12,
+    "Metallic": 1.37
+  },
+  {
+    "Name": "Silver",
+    "Atomic Number": 47,
+    "Symbol": "Ag",
+    "Van der Waals": 1.72,
+    "Covalent (single bond)": 1.53,
+    "Covalent (triple bond)": 1.37,
+    "Metallic": 1.44
+  },
+  {
+    "Name": "Cadmium",
+    "Atomic Number": 48,
+    "Symbol": "Cd",
+    "Van der Waals": 1.58,
+    "Covalent (single bond)": 1.48,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.51
+  },
+  {
+    "Name": "Indium",
+    "Atomic Number": 49,
+    "Symbol": "In",
+    "Van der Waals": 1.93,
+    "Covalent (single bond)": 1.44,
+    "Covalent (triple bond)": 1.46,
+    "Metallic": 1.67
+  },
+  {
+    "Name": "Tin",
+    "Atomic Number": 50,
+    "Symbol": "Sn",
+    "Van der Waals": 2.17,
+    "Covalent (single bond)": 1.41,
+    "Covalent (triple bond)": 1.32,
+    "Metallic": ""
+  },
+  {
+    "Name": "Antimony",
+    "Atomic Number": 51,
+    "Symbol": "Sb",
+    "Van der Waals": 2.06,
+    "Covalent (single bond)": 1.38,
+    "Covalent (triple bond)": 1.27,
+    "Metallic": ""
+  },
+  {
+    "Name": "Tellurium",
+    "Atomic Number": 52,
+    "Symbol": "Te",
+    "Van der Waals": 2.06,
+    "Covalent (single bond)": 1.35,
+    "Covalent (triple bond)": 1.21,
+    "Metallic": ""
+  },
+  {
+    "Name": "Iodine",
+    "Atomic Number": 53,
+    "Symbol": "I",
+    "Van der Waals": 1.98,
+    "Covalent (single bond)": 1.33,
+    "Covalent (triple bond)": 1.25,
+    "Metallic": ""
+  },
+  {
+    "Name": "Xenon",
+    "Atomic Number": 54,
+    "Symbol": "Xe",
+    "Van der Waals": 2.16,
+    "Covalent (single bond)": 1.3,
+    "Covalent (triple bond)": 1.22,
+    "Metallic": ""
+  },
+  {
+    "Name": "Caesium",
+    "Atomic Number": 55,
+    "Symbol": "Cs",
+    "Van der Waals": 3.43,
+    "Covalent (single bond)": 2.25,
+    "Covalent (triple bond)": null,
+    "Metallic": 2.65
+  },
+  {
+    "Name": "Barium",
+    "Atomic Number": 56,
+    "Symbol": "Ba",
+    "Van der Waals": 2.68,
+    "Covalent (single bond)": 1.98,
+    "Covalent (triple bond)": 1.49,
+    "Metallic": 2.22
+  },
+  {
+    "Name": "Lanthanum",
+    "Atomic Number": 57,
+    "Symbol": "La",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.69,
+    "Covalent (triple bond)": 1.39,
+    "Metallic": 1.87
+  },
+  {
+    "Name": "Cerium",
+    "Atomic Number": 58,
+    "Symbol": "Ce",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.31,
+    "Metallic": 1.818
+  },
+  {
+    "Name": "Praseodymium",
+    "Atomic Number": 59,
+    "Symbol": "Pr",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.28,
+    "Metallic": 1.824
+  },
+  {
+    "Name": "Neodymium",
+    "Atomic Number": 60,
+    "Symbol": "Nd",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.814
+  },
+  {
+    "Name": "Promethium",
+    "Atomic Number": 61,
+    "Symbol": "Pm",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.834
+  },
+  {
+    "Name": "Samarium",
+    "Atomic Number": 62,
+    "Symbol": "Sm",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.804
+  },
+  {
+    "Name": "Europium",
+    "Atomic Number": 63,
+    "Symbol": "Eu",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.804
+  },
+  {
+    "Name": "Gadolinium",
+    "Atomic Number": 64,
+    "Symbol": "Gd",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.32,
+    "Metallic": 1.804
+  },
+  {
+    "Name": "Terbium",
+    "Atomic Number": 65,
+    "Symbol": "Tb",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.773
+  },
+  {
+    "Name": "Dysprosium",
+    "Atomic Number": 66,
+    "Symbol": "Dy",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.781
+  },
+  {
+    "Name": "Holmium",
+    "Atomic Number": 67,
+    "Symbol": "Ho",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.762
+  },
+  {
+    "Name": "Erbium",
+    "Atomic Number": 68,
+    "Symbol": "Er",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": ""
+  },
+  {
+    "Name": "Thulium",
+    "Atomic Number": 69,
+    "Symbol": "Tm",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.759
+  },
+  {
+    "Name": "Ytterbium",
+    "Atomic Number": 70,
+    "Symbol": "Yb",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.76
+  },
+  {
+    "Name": "Lutetium",
+    "Atomic Number": 71,
+    "Symbol": "Lu",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.6,
+    "Covalent (triple bond)": 1.31,
+    "Metallic": 1.738
+  },
+  {
+    "Name": "Hafnium",
+    "Atomic Number": 72,
+    "Symbol": "Hf",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.5,
+    "Covalent (triple bond)": 1.22,
+    "Metallic": 1.59
+  },
+  {
+    "Name": "Tantalum",
+    "Atomic Number": 73,
+    "Symbol": "Ta",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.38,
+    "Covalent (triple bond)": 1.19,
+    "Metallic": 1.46
+  },
+  {
+    "Name": "Tungsten",
+    "Atomic Number": 74,
+    "Symbol": "W",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.46,
+    "Covalent (triple bond)": 1.15,
+    "Metallic": 1.39
+  },
+  {
+    "Name": "Rhenium",
+    "Atomic Number": 75,
+    "Symbol": "Re",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.59,
+    "Covalent (triple bond)": 1.1,
+    "Metallic": 1.37
+  },
+  {
+    "Name": "Osmium",
+    "Atomic Number": 76,
+    "Symbol": "Os",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.28,
+    "Covalent (triple bond)": 1.09,
+    "Metallic": 1.35
+  },
+  {
+    "Name": "Iridium",
+    "Atomic Number": 77,
+    "Symbol": "Ir",
+    "Van der Waals": null,
+    "Covalent (single bond)": 1.37,
+    "Covalent (triple bond)": 1.07,
+    "Metallic": 1.355
+  },
+  {
+    "Name": "Platinum",
+    "Atomic Number": 78,
+    "Symbol": "Pt",
+    "Van der Waals": 1.75,
+    "Covalent (single bond)": 1.28,
+    "Covalent (triple bond)": 1.1,
+    "Metallic": 1.385
+  },
+  {
+    "Name": "Gold",
+    "Atomic Number": 79,
+    "Symbol": "Au",
+    "Van der Waals": 1.66,
+    "Covalent (single bond)": 1.44,
+    "Covalent (triple bond)": 1.23,
+    "Metallic": 1.44
+  },
+  {
+    "Name": "Mercury",
+    "Atomic Number": 80,
+    "Symbol": "Hg",
+    "Van der Waals": 1.55,
+    "Covalent (single bond)": 1.49,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.51
+  },
+  {
+    "Name": "Thallium",
+    "Atomic Number": 81,
+    "Symbol": "Tl",
+    "Van der Waals": 1.96,
+    "Covalent (single bond)": 1.48,
+    "Covalent (triple bond)": 1.5,
+    "Metallic": 1.7
+  },
+  {
+    "Name": "Lead",
+    "Atomic Number": 82,
+    "Symbol": "Pb",
+    "Van der Waals": 2.02,
+    "Covalent (single bond)": 1.47,
+    "Covalent (triple bond)": 1.37,
+    "Metallic": ""
+  },
+  {
+    "Name": "Bismuth",
+    "Atomic Number": 83,
+    "Symbol": "Bi",
+    "Van der Waals": 2.07,
+    "Covalent (single bond)": 1.46,
+    "Covalent (triple bond)": 1.35,
+    "Metallic": ""
+  },
+  {
+    "Name": "Polonium",
+    "Atomic Number": 84,
+    "Symbol": "Po",
+    "Van der Waals": 1.97,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.29,
+    "Metallic": ""
+  },
+  {
+    "Name": "Astatine",
+    "Atomic Number": 85,
+    "Symbol": "At",
+    "Van der Waals": 2.02,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.38,
+    "Metallic": ""
+  },
+  {
+    "Name": "Radon",
+    "Atomic Number": 86,
+    "Symbol": "Rn",
+    "Van der Waals": 2.2,
+    "Covalent (single bond)": 1.45,
+    "Covalent (triple bond)": 1.33,
+    "Metallic": ""
+  },
+  {
+    "Name": "Francium",
+    "Atomic Number": 87,
+    "Symbol": "Fr",
+    "Van der Waals": 3.48,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Radium",
+    "Atomic Number": 88,
+    "Symbol": "Ra",
+    "Van der Waals": 2.83,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.59,
+    "Metallic": null
+  },
+  {
+    "Name": "Actinium",
+    "Atomic Number": 89,
+    "Symbol": "Ac",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.4,
+    "Metallic": ""
+  },
+  {
+    "Name": "Thorium",
+    "Atomic Number": 90,
+    "Symbol": "Th",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.36,
+    "Metallic": 1.79
+  },
+  {
+    "Name": "Protactinium",
+    "Atomic Number": 91,
+    "Symbol": "Pa",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.29,
+    "Metallic": 1.63
+  },
+  {
+    "Name": "Uranium",
+    "Atomic Number": 92,
+    "Symbol": "U",
+    "Van der Waals": 1.86,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.18,
+    "Metallic": 1.56
+  },
+  {
+    "Name": "Neptunium",
+    "Atomic Number": 93,
+    "Symbol": "Np",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.16,
+    "Metallic": 1.55
+  },
+  {
+    "Name": "Plutonium",
+    "Atomic Number": 94,
+    "Symbol": "Pu",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.59
+  },
+  {
+    "Name": "Americium",
+    "Atomic Number": 95,
+    "Symbol": "Am",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.73
+  },
+  {
+    "Name": "Curium",
+    "Atomic Number": 96,
+    "Symbol": "Cm",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.74
+  },
+  {
+    "Name": "Berkelium",
+    "Atomic Number": 97,
+    "Symbol": "Bk",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": 1.7
+  },
+  {
+    "Name": "Californium",
+    "Atomic Number": 98,
+    "Symbol": "Cf",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": "1.86 +/- 0.02"
+  },
+  {
+    "Name": "Einsteinium",
+    "Atomic Number": 99,
+    "Symbol": "Es",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": "1.86 +/- 0.02"
+  },
+  {
+    "Name": "Fermium",
+    "Atomic Number": 100,
+    "Symbol": "Fm",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Mendelevium",
+    "Atomic Number": 101,
+    "Symbol": "Md",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Nobelium",
+    "Atomic Number": 102,
+    "Symbol": "No",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Lawrencium",
+    "Atomic Number": 103,
+    "Symbol": "Lr",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Rutherfordium",
+    "Atomic Number": 104,
+    "Symbol": "Rf",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.31,
+    "Metallic": null
+  },
+  {
+    "Name": "Dubnium",
+    "Atomic Number": 105,
+    "Symbol": "Db",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.26,
+    "Metallic": null
+  },
+  {
+    "Name": "Seaborgium",
+    "Atomic Number": 106,
+    "Symbol": "Sg",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.21,
+    "Metallic": null
+  },
+  {
+    "Name": "Bohrium",
+    "Atomic Number": 107,
+    "Symbol": "Bh",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.19,
+    "Metallic": null
+  },
+  {
+    "Name": "Hassium",
+    "Atomic Number": 108,
+    "Symbol": "Hs",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.18,
+    "Metallic": null
+  },
+  {
+    "Name": "Meitnerium",
+    "Atomic Number": 109,
+    "Symbol": "Mt",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.13,
+    "Metallic": null
+  },
+  {
+    "Name": "Darmstadtium",
+    "Atomic Number": 110,
+    "Symbol": "Ds",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.12,
+    "Metallic": null
+  },
+  {
+    "Name": "Roentgenium",
+    "Atomic Number": 111,
+    "Symbol": "Rg",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.18,
+    "Metallic": null
+  },
+  {
+    "Name": "Copernicium",
+    "Atomic Number": 112,
+    "Symbol": "Cn",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": 1.3,
+    "Metallic": null
+  },
+  {
+    "Name": "Nihonium",
+    "Atomic Number": 113,
+    "Symbol": "Nh",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Flerovium",
+    "Atomic Number": 114,
+    "Symbol": "Fl",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Moscovium",
+    "Atomic Number": 115,
+    "Symbol": "Mc",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Livermorium",
+    "Atomic Number": 116,
+    "Symbol": "Lv",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Tennessine",
+    "Atomic Number": 117,
+    "Symbol": "Ts",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  },
+  {
+    "Name": "Oganesson",
+    "Atomic Number": 118,
+    "Symbol": "Og",
+    "Van der Waals": null,
+    "Covalent (single bond)": null,
+    "Covalent (triple bond)": null,
+    "Metallic": null
+  }
+]
